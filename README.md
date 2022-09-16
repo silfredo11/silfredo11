@@ -5,7 +5,7 @@ I am a frontend developer in training, with the ability to work in a team, devel
 **En los siguientes sitios web puedes saber más de mí 🌐:**
 
 - My personal website [silfredoibarra.com](https://www.silfredoibarra.com/)
--  [Linkedin ](http:/https://www.linkedin.com/in/silfredo-mario-ibarra-garcia-b1a239213/ "Linkedin ")
-- [Twiter](http://https://twitter.com/SilfredoIbarra "Twiter")
+-  [Linkedin ](https://www.linkedin.com/in/silfredo-mario-ibarra-garcia-b1a239213/)
+- [Twiter](https://twitter.com/SilfredoIbarra)
 - My personal email address: silfredoibarra@silfredoibarra.com
 
